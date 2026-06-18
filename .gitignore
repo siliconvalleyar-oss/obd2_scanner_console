@@ -1,0 +1,30 @@
+# Build artifacts
+bin/
+obj/
+build/
+build_*/
+
+# Editor backups
+*~
+*.bak
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and data
+logs/
+*.log
+*.csv
+
+# Protocol cache
+protocol.cache
+
+# Screenshots
+screenshots/
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
